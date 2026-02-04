@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|c:\\users\\frank\\source\\repos\\homerwork2theapi\\homerwork2theapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|solutionrelative:homerwork2theapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|c:\\users\\frank\\source\\repos\\homerwork2theapi\\homerwork2theapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|solutionrelative:homerwork2theapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|c:\\users\\frank\\source\\repos\\homerwork2theapi\\homerwork2theapi\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|solutionrelative:homerwork2theapi\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|c:\\users\\frank\\source\\repos\\homerwork2theapi\\homerwork2theapi\\dtos\\userreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|solutionrelative:homerwork2theapi\\dtos\\userreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|c:\\users\\frank\\source\\repos\\homerwork2theapi\\homerwork2theapi\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|solutionrelative:homerwork2theapi\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|c:\\users\\frank\\source\\repos\\homerwork2theapi\\homerwork2theapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|solutionrelative:homerwork2theapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|c:\\users\\frank\\source\\repos\\homerwork2theapi\\homerwork2theapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC04AD2-BD2B-4C4C-AE85-786D37C14E3F}|Homerwork2TheApi\\Homerwork2TheApi.csproj|solutionrelative:homerwork2theapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Homerwork2TheApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Homerwork2TheApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T16:25:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Homerwork2TheApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Homerwork2TheApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:16:50.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\Program.cs",
+              "RelativeDocumentMoniker": "Homerwork2TheApi\\Program.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\Program.cs",
+              "RelativeToolTip": "Homerwork2TheApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:21:48.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\DTOS\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "Homerwork2TheApi\\DTOS\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\DTOS\\UserUpdateDto.cs",
+              "RelativeToolTip": "Homerwork2TheApi\\DTOS\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:15:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\DTOS\\UserReadDto.cs",
+              "RelativeDocumentMoniker": "Homerwork2TheApi\\DTOS\\UserReadDto.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\DTOS\\UserReadDto.cs",
+              "RelativeToolTip": "Homerwork2TheApi\\DTOS\\UserReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:15:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\DTOS\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "Homerwork2TheApi\\DTOS\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\DTOS\\UserCreateDto.cs",
+              "RelativeToolTip": "Homerwork2TheApi\\DTOS\\UserCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:15:13.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Homerwork2TheApi\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\Homerwork2TheApi\\Homerwork2TheApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Homerwork2TheApi\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:16:41.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

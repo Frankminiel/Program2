@@ -1,0 +1,6 @@
+@Homerwork2TheApi_HostAddress = http://localhost:5055
+
+GET {{Homerwork2TheApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
