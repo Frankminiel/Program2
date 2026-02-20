@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../School.Domain/School.Domain/School.Domain.csproj" />
+  <Project Path="../School.Infrastructure/School.Infrastructure/School.Infrastructure.csproj" />
+  <Project Path="Homerwork2TheApi/School.Api.csproj" />
+</Solution>
