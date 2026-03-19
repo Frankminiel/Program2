@@ -1,0 +1,17 @@
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\bin\Debug\net10.0\Shool.Applicaction.deps.json
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\bin\Debug\net10.0\Shool.Applicaction.dll
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\bin\Debug\net10.0\Shool.Applicaction.pdb
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\bin\Debug\net10.0\School.Domain.dll
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\bin\Debug\net10.0\School.Infrastructure.dll
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\bin\Debug\net10.0\School.Infrastructure.pdb
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\bin\Debug\net10.0\School.Domain.pdb
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\Shool.Applicaction.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\Shool.Applicaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\Shool.Applicaction.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\Shool.Applicaction.AssemblyInfo.cs
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\Shool.Applicaction.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\Shool.Ap.26F866B4.Up2Date
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\Shool.Applicaction.dll
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\refint\Shool.Applicaction.dll
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\Shool.Applicaction.pdb
+C:\Users\frank\source\repos\Homerwork2TheApi\Shool.Applicaction\obj\Debug\net10.0\ref\Shool.Applicaction.dll

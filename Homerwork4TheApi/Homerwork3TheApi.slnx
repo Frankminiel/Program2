@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="../School.Domain/School.Domain/School.Domain.csproj" />
+  <Project Path="../School.Infrastructure/School.Infrastructure/School.Infrastructure.csproj" />
+  <Project Path="Homerwork2TheApi/School.Api.csproj" />
+  <Project Path="Shool.Applicaction/Shool.Applicaction.csproj" Id="f7247e7b-6757-4eb4-90e5-125789242da7" />
+</Solution>
