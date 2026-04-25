@@ -1,0 +1,29 @@
+﻿@page
+@model todospodemos.Pages.IndexModel
+
+<div class="home-container">
+    <h1>Home</h1>
+
+    <!-- Botones flotantes grandes -->
+    <div class="home-buttons">
+        <a asp-page="/Players/Index" class="btn">Players</a>
+        <a asp-page="/Matches/Index" class="btn">Matches</a>
+        <a asp-page="/Tournaments/Index" class="btn">Tournaments</a>
+    </div>
+
+    <!-- Misión / Visión / Valores -->
+    <div class="home-info">
+        <div class="info-card">
+            <h3>Misión</h3>
+            <p>Promover la competencia sana y el deporte del tenis de mesa.</p>
+        </div>
+        <div class="info-card">
+            <h3>Visión</h3>
+            <p>Convertirnos en la plataforma líder de torneos de tenis de mesa.</p>
+        </div>
+        <div class="info-card">
+            <h3>Valores</h3>
+            <p>Deporte, respeto, dedicación y mejora continua.</p>
+        </div>
+    </div>
+</div>

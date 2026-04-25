@@ -1,0 +1,22 @@
+﻿@page
+@model Todos_Podemos.Pages.Matches.CreateModel
+
+<h2>Crear Match</h2>
+
+<form method="post">
+
+    <label>Player 1 ID</label>
+    <input asp-for="Match.Player1Id" type="number" />
+
+    <label>Player 2 ID</label>
+    <input asp-for="Match.Player2Id" type="number" />
+
+    <label>Score 1</label>
+    <input asp-for="Match.Score1" type="number" />
+
+    <label>Score 2</label>
+    <input asp-for="Match.Score2" type="number" />
+
+    <button type="submit" class="btn">Guardar</button>
+
+</form>

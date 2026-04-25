@@ -1,0 +1,16 @@
+﻿@page
+@model Todos_Podemos.Pages.Matches.IndexModel
+
+<h2>Matches</h2>
+
+<a asp-page="Create" class="btn">Crear Match</a>
+
+<div class="cards-container">
+    @foreach (var item in Model.Matches)
+    {
+        <div class="card">
+            <h3>Player @item.Player1Id vs Player @item.Player2Id</h3>
+            <p>Score: @item.Score1 - @item.Score2</p>
+        </div>
+    }
+</div>

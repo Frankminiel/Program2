@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "todos_podemos.api\\todos_podemos.api.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Start"
+      },
+      {
+        "Path": "Todos_Podemos\\Todos_Podemos.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]

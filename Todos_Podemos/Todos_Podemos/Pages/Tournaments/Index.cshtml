@@ -1,0 +1,15 @@
+﻿@page
+@model Todos_Podemos.Pages.Tournaments.IndexModel
+
+<h2>Tournaments</h2>
+
+<a asp-page="Create" class="btn">Crear Tournament</a>
+
+<div class="cards-container">
+    @foreach (var item in Model.Tournaments)
+    {
+        <div class="card">
+            <h3>@item.Name</h3>
+        </div>
+    }
+</div>
