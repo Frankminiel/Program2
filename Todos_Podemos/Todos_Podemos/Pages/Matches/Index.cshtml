@@ -1,0 +1,23 @@
+﻿@page
+@model Todos_Podemos.Pages.Matches.IndexModel
+
+<h2>Matches</h2>
+
+<a asp-page="Create" class="btn btn-primary">Crear Match</a>
+
+<div class="cards-container">
+    @if (Model.Matches != null && Model.Matches.Any())
+    {
+        @foreach (var item in Model.Matches)
+        {
+            <div class="card">
+                <h3>@item.TeamA vs @item.TeamB</h3>
+                <p>Fecha: @item.Date.ToShortDateString()</p>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No hay partidos registrados actualmente.</p>
+    }
+</div>

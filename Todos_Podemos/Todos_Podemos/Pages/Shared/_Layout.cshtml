@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todos Podemos</title>
+
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a asp-page="/Index">Todos Podemos</a>
+            </div>
+
+            <div>
+                <a asp-page="/Index" class="nav-btn">Home</a>
+                <a asp-page="/Players/Index" class="nav-btn">Players</a>
+                <a asp-page="/Matches/Index" class="nav-btn">Matches</a>
+                <a asp-page="/Tournaments/Index" class="nav-btn">Tournaments</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container">
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>© 2026 Todos Podemos</p>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>

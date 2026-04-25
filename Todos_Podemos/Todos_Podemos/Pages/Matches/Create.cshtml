@@ -1,0 +1,43 @@
+﻿@page
+@model Todos_Podemos.Pages.Matches.CreateModel
+
+@{
+    ViewData["Title"] = "Crear Match";
+}
+
+<h2>Crear Nuevo Match</h2>
+
+<form method="post">
+    @* Resumen de errores de validación *@
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group mb-3">
+        <label>Nombre del Equipo A</label>
+        <input asp-for="Match.TeamA" class="form-control" placeholder="Ej: Real Madrid" />
+        <span asp-validation-for="Match.TeamA" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Nombre del Equipo B</label>
+        <input asp-for="Match.TeamB" class="form-control" placeholder="Ej: Barcelona" />
+        <span asp-validation-for="Match.TeamB" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Fecha del Encuentro</label>
+        <input asp-for="Match.Date" type="date" class="form-control" />
+        <span asp-validation-for="Match.Date" class="text-danger"></span>
+    </div>
+
+    <div class="mt-4">
+        <button type="submit" class="btn btn-success">Guardar</button>
+        <a asp-page="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>
+
+@section Scripts {
+    @* Esto permite que las validaciones funcionen sin recargar la página *@
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
