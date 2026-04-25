@@ -1,6 +1,0 @@
-@todos_podemos.api_HostAddress = http://localhost:5142
-
-GET {{todos_podemos.api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
